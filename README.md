@@ -1,4 +1,4 @@
-# Release Notes - 2025/04/21
+# Release Notes 
 New Features
 Collateral Arrangement/Lending
 Redirect user to base URL
